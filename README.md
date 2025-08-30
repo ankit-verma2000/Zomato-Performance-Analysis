@@ -18,20 +18,6 @@ The analysis covers revenue trends, cuisine performance, customer behavior, disc
 
 5. Location Insights
 
-## 🔑 Key Insights:
-
-💰 ₹10.53M Total Revenue from 10K+ orders with an average rating of 3.0
-
-🍝 Top-Performing Cuisines: Italian, Thai & Indian (~₹1.5M each)
-
-🎟️ Discount Strategy Check: Revenue with discounts (₹5.2M) ≈ without discounts (₹5.3M) – ROI evaluation needed
-
-👥 High-Value Customers: Top 5 customers contribute nearly 10% of total revenue
-
-📆 Peak Sales Months: May, August & September (~₹0.9M each)
-
-🔄 Operational Stability: Even revenue split across delivery partners & payment methods
-
 ## 🔑 Key Insights Extracted:
 __Overall Performace:__
 
@@ -42,7 +28,7 @@ __Overall Performace:__
 | Total Orders       | 10K       |
 | Avg. Delivery Time | 65.2 mins |
 
-__Revenue Insights
+__💰Revenue Insights
 By Payment Method__
 
 | Payment Method | Revenue |
@@ -52,16 +38,16 @@ By Payment Method__
 | Net Banking    | ₹2.10M  |
 | Credit Card    | ₹2.06M  |
 
-Insight: UPI slightly leads; distribution is nearly equal.
+Insight: UPI slightly leads; else distribution is nearly equal.
 
 __By Delivery Partner__
 | Partner    | Revenue Range    |
 | ---------- | ---------------- |
 | A, B, C, D | ₹2.5M–₹2.6M each |
 
-Insight: Revenue is evenly distributed – no single partner dominates.
+Insight: Revenue is evenly distributed – no single partner dominates but partner B have some slightly higher value.
 
-__By Cuisine Type__
+__🍝By Cuisine Type__
 | Cuisine Type                | Revenue Range                   |
 | --------------------------- | ------------------------------- |
 | Italian, Thai, Indian       | \~₹1.5M each *(Top performers)* |
@@ -80,7 +66,7 @@ Insight: Discounts didn’t significantly impact revenue, showing strong organic
 __Customer Insights__
 | Metric           | Value                  |
 | ---------------- | ---------------------- |
-| Top Customer     | James Johns – ₹6.9K    |
+| Top Customer     | James Johns – ₹6.9K of tota spending    |
 | Top 10 Customers | \~10% of total revenue |
 
 Retention Challenge: Loyalty programs can help engage mid-level spenders.
@@ -92,12 +78,13 @@ __Restaurant & Location Insights__
 | Top Revenue Locations    | North Jennifer, South Michael, Smith Michael |
 | Highest Rating Count     | Smith Group (47)                             |
 
-__Time-Based Insights__
+__📆Time-Based Insights__
 | Metric            | Value                                        |
 | ----------------- | -------------------------------------------- |
 | Quarterly Revenue | \~₹2.5M each                                 |
 | Peak Months       | May, August & September (\~₹0.9M each)       |
 | Daily Trends      | Consistent order volume despite fluctuations |
+Insights: Quarter 2 have some slightly higher revenue value of 2.76 Million
 
 ## Business Recommendations
 
